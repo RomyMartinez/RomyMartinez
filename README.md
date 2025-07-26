@@ -1,4 +1,4 @@
-# 👋🏻 Oiii! Eu sou o Romy Martinez Programador Front-End
+# 👋🏻 Eu sou o Romy Martinez Programador Front-End
 
 <img src="https://i.pinimg.com/564x/8e/a8/2c/8ea82c7d8c7287a943c3e34d2b6089c1.jpg" min-width="250px" max-width="2050px" width="250px" align="right" alt="code">
 <p align="left">📍 Eu me chamo <b>Romy Martinez</b>, tenho 19 anos e sou um programador <b>Front-End</b> que deseja expandir seus conhecimentos para o <b>Back-End</b>.</p>
