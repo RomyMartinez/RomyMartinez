@@ -1,7 +1,7 @@
 # 👋🏻 Eu sou o Romy Martinez Programador Front-End
 
 <img src="https://i.pinimg.com/564x/8e/a8/2c/8ea82c7d8c7287a943c3e34d2b6089c1.jpg" min-width="250px" max-width="2050px" width="250px" align="right" alt="code">
-<p align="left">📍 Eu me chamo <b>Romy Martinez</b>, tenho 19 anos e sou um programador <b>Front-End</b> que deseja expandir seus conhecimentos para o <b>Back-End</b>.</p>
+<p align="left">📍 Eu me chamo <b>Romy Martinez</b>, tenho 21 anos e sou um programador <b>Front-End</b> que deseja expandir seus conhecimentos para o <b>Back-End</b>.</p>
 <p align="left">📖 Atualmente, moro no Estado do Rio de Janeiro e estudo <b>Sistemas de Informação no Instituto Federal de Educação, Ciência e Tecnologia Fluminense (IFF)</b> no campus Centro em Campos dos Goytacazes. </p>
 <p align="left">🚀 Estou ansioso para aplicar meu conhecimento teórico em ambientes práticos e contribuir para desafios estimulantes na área de tecnologia.</p>
 
